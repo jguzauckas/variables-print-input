@@ -1,0 +1,1 @@
+This repository is designed to outline the basics of variable declarations and usage, print statement options and syntax, and effective use of inputs.
