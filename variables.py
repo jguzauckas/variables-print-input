@@ -59,3 +59,9 @@ print("a is now", a)
 print("d is", d)
 d += "str"
 print("d is now", d) #Notice that it doesn't automatically add a space, we need to do that!
+
+
+#ASSIGNMENT:
+#Can you create a float variable called 'x', and perform the following assignment operations on it?
+#Add 5.2, subtract 1.1, multiply by 3.4, true divide by 2.1, integer divide by 3,
+#divide by 4 and save the remainder, to the power of 4
