@@ -27,3 +27,16 @@ print("a is "+"an integer"+" and b is"+" a float")
 #While it isn't necessarily recommended, you can use both in the same print statement as long as you still
 #follow the rules.
 print("c is "+c+" and a is", a)
+
+
+#ASSIGNMENT:
+#Make three variables: an integer 5, a string "Hi", and a string "Hello"
+
+#Create print statements that produce the following outputs:
+#"hi hello 5"
+
+#"hi 5 hello"
+
+#"hi my name is ___"
+
+#"hello my name is ___"
