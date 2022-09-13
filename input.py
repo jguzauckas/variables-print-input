@@ -27,3 +27,13 @@ d = bool(input("Enter an boolean (first letter capital!): "))
 print("The type of d is", type(d))
 
 #Try and break the program by entering the wrong type of information when it prompts you!
+
+
+#ASSIGNMENT:
+#In two separate variables, ask for and store the user's first and last names
+
+#Now greet the user by using their full name in a print statement
+
+#Ask the user for their favorite number (integer)
+
+#Tell the user that your number is 1 more than theirs (add 1 to their entered number)
