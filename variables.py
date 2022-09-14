@@ -63,5 +63,6 @@ print("d is now", d) #Notice that it doesn't automatically add a space, we need 
 
 #ASSIGNMENT:
 #Can you create a float variable called 'x', and perform the following assignment operations on it?
+#Each time you perform an operation, make sure you print the new value so we can see the result!
 #Add 5.2, subtract 1.1, multiply by 3.4, true divide by 2.1, integer divide by 3,
 #divide by 4 and save the remainder, to the power of 4
