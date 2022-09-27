@@ -80,20 +80,22 @@ print("The type of b is", type(b))
 This produces the output:
 
 ```
-
+Enter an integer: 5
+The type of b is <class 'int'>
 ```
 
 **`float`**
 
 ```python
-c = float(input("Enter an float: "))
+c = float(input("Enter a float: "))
 print("The type of c is", type(c))
 ```
 
 This produces the output:
 
 ```
-
+Enter a float: 2.2
+The type of c is <class 'float'>
 ```
 
 **`bool`**

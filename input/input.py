@@ -26,7 +26,7 @@ print(
 b = int(input("Enter an integer: "))
 print("The type of b is", type(b))
 
-c = float(input("Enter an float: "))
+c = float(input("Enter a float: "))
 print("The type of c is", type(c))
 
 d = bool(input("Enter an boolean (anything for True, blank for False): "))
