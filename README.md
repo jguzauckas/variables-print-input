@@ -1,7 +1,17 @@
 This repository is designed to outline the basics of variable declarations and usage, print statement options and syntax, and effective use of inputs.
 
-As a class, we will go through each of the three informational files together, and after each one, you will fill in a short assignment at the end of the file and commit/push your changes!
+Each component has two files with similar names. One is a markdown file (`.md`) and the other is a Python file (`.py`).
 
-When we've gotten through all of the content, you will work on the classwork.py file, which prompts you to utilize your new skills. As a reference, I have a sample solution in the classworkcompleted.py if you ever get stuck. Make sure to commit and push your code!
+The markdown file has formatted notes describing concepts and talking about sample code. All of the sample code snippets are found in the Python file for you to be able to run, and modify.
 
-After class, there is a homework assignment in homework.py for you to complete similar to the classwork. Make sure to commit and push your code!
+The recommended order for information is:
+
+1. variables
+2. print
+3. input
+
+Once you've gone through those notes and code samples, try the classwork.py file, which offers some problems for you to program a solution for!
+
+To check your work, my own solution to the classwork is provided in classworkcompleted.py.
+
+Finally, give homework.py a try with some additional problems!
